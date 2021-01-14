@@ -1,0 +1,9 @@
+8
+the,le
+the,la
+jellyfish,meduse
+boy,garcon
+dances,danse
+with,avec
+lazy,paresseux
+smelly,puante
