@@ -8,7 +8,7 @@ The following is an example of a parallel corpus text file (French-English):\
 • Accents on letters are ignored (for easy keyboard input).\
 • Sometimes two different words might translate to the same word (“le” / ”la” both translate to “the”), but you may assume each word on the left-hand side appears only once.
 
-## Example Input:
+## Input:
 ```
 8
 le,the
@@ -37,7 +37,7 @@ The boy lazy dances with the jellyfish smelly!
 • Thw program will loop continuously till the user indicates that they want to quit. With each loop, prompt the user to re-enter an option to determine the filename of the corpus to be used, as well as a new source text to be translated.\
 • If any exceptions are encountered, display a message to the user indicating the problem. 
 
-## Example Output:
+## Output:
 ```
 Welcome to the Translator! Bienvenue!!
 You can translate sentences from English to French and vice versa!
